@@ -17,7 +17,7 @@ module.exports = {
     clean: true,
   },
   mode: 'development',
-/*   optimization: {
+  /*   optimization: {
     runtimeChunk: 'single',
   }, */
   module: {
