@@ -8,6 +8,8 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
+      title: 'Webpack setup',
+      filename: 'index.html',
       template: './src/index.html',
     }),
   ],
@@ -17,9 +19,6 @@ module.exports = {
     clean: true,
   },
   mode: 'development',
-  /*   optimization: {
-    runtimeChunk: 'single',
-  }, */
   module: {
     rules: [
       {
