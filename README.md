@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Webpack setup boilerplate</b></h3>
+  <h3><b>Readme Template</b></h3>
 
 </div>
 
@@ -11,7 +11,6 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [:camera: project screenshot](#screen-shoot)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -32,27 +31,25 @@
 
 # 📖 Webpack boilerplate <a name="about-project"></a>
 
-> This repo serves as a webpack boilerplate setup
+> Description of the project
 
 ## 🛠 Built With <a name="built-with"> </a>
 
-> HTML 5 , css3, javascript ES6, NPM and webpack.
-
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML 5 , css3, javascript ES6, NPM and webpack
+> Stack used
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
- <li>Boilerplate for webpack</li>
+ > Add 2 or 3 features here
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p><!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->
+> Live demo here
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,12 +57,11 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> to run on your localhost just copy the whole project and open index.html in your browser.
+> Describe how to get started
 
 ### Setup
 
-> <p> git clone https://github.com/rica213/set-up-webpack.git</p>
-> cd set-up-webpack
+> Describe how to setup your application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,7 +69,6 @@
 
 In order to run this project you only need:
 
-- a web-browser
 
 ### Install
 
@@ -87,17 +82,17 @@ To install this project in your local machine use
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Clarielle Larissa**
+👤 **Author**
 
-- GitHub: [@rica213](https://github.com/rica213)
-- Twitter: [@alc3and](https://twitter.com/alc3and)
-- LinkedIn: [Clarielle Larissa](https://www.linkedin.com/in/larissa-clarielle-andrainasoa-8768a3256/)
+- GitHub: [github handle](#)
+- Twitter: [twitter username](#)
+- LinkedIn: [linkedin username](#)
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> 
+> Add 2 or 3 future features
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -110,7 +105,7 @@ Feel free to check the [issues page](https://github.com/rica213/set-up-webpack/i
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like the project please give it star
+> If you like the project ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,7 +113,7 @@ Feel free to check the [issues page](https://github.com/rica213/set-up-webpack/i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I would like to thank Microverse team
+> I would like to thank ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
